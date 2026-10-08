@@ -1,12 +1,8 @@
 * {
 font-family: "Open Sans", Arial, sans-serif;
+  font-weight: 400;
 }
-p {
-    font-size: 1 em;
-}
-p {
-color: #444e4e;
-}
-* {
-    font-weight: 400;
+p, body, h1, h2, h3, h4, h5, h6, ul, ol, li {
+    font-size: 1em;
+    color: #444;    
 }
