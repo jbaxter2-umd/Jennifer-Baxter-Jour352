@@ -1,5 +1,12 @@
 /* styles for my resume */
 
+#container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+
 * {
     font-family: "Open Sans", Arial, sans-serif;
 }
@@ -85,6 +92,36 @@ li {
     margin: 0;
 }
 
-.decription1 {
+.menu li {
+    display: inline;
+}
+
+#degrees {
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+#do {
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+#title {
     text-align: center;
+    font-weight: 600;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.top {
+    width: 60%;
+    min-width: 300px;
+    margin-bottom: 30px;
+    margin:0 auto;
 }
