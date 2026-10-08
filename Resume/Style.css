@@ -1,11 +1,11 @@
 * {
     font-family: "Open Sans", Arial, sans-serif;
-    font-weight: 400;
 }
 
 p {
     font-size: 1em;
     color: #444;
+    font-weight: 400;
 }
 
 h1 {
@@ -13,6 +13,7 @@ h1 {
     color: #33485e;
     text-align: center;
     text-transform: uppercase;
+    font-weight: 400;
 }
 
 .title {
@@ -26,4 +27,12 @@ h2 {
     color: white;
     text-transform: uppercase;
     background-color: #33485e;
+    font-weight: 400;
+}
+
+h3 {
+    font-size: 1.5em;
+    color: #33485e;
+    text-transform: uppercase;
+    font-weight: 600;
 }
