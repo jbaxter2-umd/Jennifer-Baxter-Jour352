@@ -20,3 +20,10 @@ h1 {
     color: #33485e;
     text-transform: uppercase;
 }
+
+h2 {
+    font-size: 1.5em;
+    color: white;
+    text-transform: uppercase;
+    background-color: #33485e;
+}
