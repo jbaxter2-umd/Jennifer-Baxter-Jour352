@@ -1,4 +1,4 @@
-p {
+* {
 font-family: "Open Sans", Arial, sans-serif;
 }
 p {
@@ -8,5 +8,5 @@ p {
 color: #444e4e;
 }
 * {
-    font-weight: bold;
+    font-weight: 400;
 }
