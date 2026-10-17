@@ -28,17 +28,17 @@ font-size: 14px;
 font-style: italic;
 }
 
-#location {
+.location {
     font-family: Helvetica, sans-serif;
     font-size: 14px;
 }
 
-#published {
+.published {
     font-family: Helvetica, sans-serif;
     font-size: 14px;
 } 
 
-#updated {
+.updated {
     font-family: Helvetica, sans-serif;
     font-size: 14px;
 }
