@@ -32,18 +32,22 @@ font-style: italic;
     font-family: Helvetica, sans-serif;
     font-size: 14px;
 }
+
 #published {
     font-family: Helvetica, sans-serif;
     font-size: 14px;
-}
+} 
+
 #updated {
     font-family: Helvetica, sans-serif;
     font-size: 14px;
 }
+
 .para{
     font-family: Georgia, serif;
     font-size: 13px;
 }
+
 h3 {
     font-family: Helvetica, sans-serif;
     font-size: 1.2em;
