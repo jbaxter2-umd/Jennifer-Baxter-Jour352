@@ -84,15 +84,16 @@ padding: 15px;
 .baxter{
     height: auto;
     text-align: center;
-    font-style: bold;
-    border: 8px solid lightpink;
+        border: 8px solid lightpink;
     border-top: 8px solid lightpink;
     border-bottom: 8px solid lightpink;
     padding: 12px 16px;
 }
 .baxter2{
-font: 50px Georgia, serif;
+font: 80px Georgia, serif;
 color: rgb(225, 72, 136);
+    font-style: bold;
+
 }
 .date {
     font-size: 30px;
