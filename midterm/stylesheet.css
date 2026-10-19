@@ -84,7 +84,7 @@ padding: 15px;
 .baxter{
     text-align: center;
     color: rgb(225, 72, 136);
-    font-style: Georgia, serif;
+    font: 50px Georgia, serif;
     font-style: bold;
     border: 7px solid lightpink;
     padding: 15px;
