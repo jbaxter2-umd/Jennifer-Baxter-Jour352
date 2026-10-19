@@ -36,6 +36,7 @@ text-align: center;
 .published {
     font-family: Helvetica, "sans-serif";
     font-size: 14px;
+    text-align: center;
 } 
 
 .updated {
