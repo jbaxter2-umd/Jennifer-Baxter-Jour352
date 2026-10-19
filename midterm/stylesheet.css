@@ -24,11 +24,13 @@ h2 {
 font-family: Helvetica, sans-serif;
 font-size: 14px;
 font-style: italic;
+text-align: center;
 }
 
 .location {
     font-family: Helvetica, sans-serif;
     font-size: 14px;
+    text-align: center;
 }
 
 .published {
