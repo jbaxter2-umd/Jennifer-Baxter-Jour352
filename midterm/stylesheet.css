@@ -86,10 +86,10 @@ padding: 15px;
     color: rgb(225, 72, 136);
     font: 50px Georgia, serif;
     font-style: bold;
-    border: 7px solid lightpink;
-    border-top: 4px solid hotpink;
-    border-bottom: 4px double hotpink;
-    padding: 15px;
+    border: 8px solid lightpink;
+    border-top: 8px solid lightpink;
+    border-bottom: 8px double lightpink;
+    padding: 8px;
 }
 .date {
     font-size: 30px;
