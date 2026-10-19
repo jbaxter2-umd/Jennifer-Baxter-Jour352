@@ -87,5 +87,20 @@ padding: 15px;
     font: 50px Georgia, serif;
     font-style: bold;
     border: 7px solid lightpink;
+    border-top: 4px solid hotpink;
+    border-bottom: 4px double hotpink;
     padding: 15px;
+}
+.date {
+    font-size: 30px;
+    color: rgb(211, 98, 215);
+    margin: 0;
+    letter-spacing: normal;
+}
+.goodstuff {
+    font-size: 30px;
+    font-style: italic;
+    color: rgb(69, 133, 194);
+    letter-spacing: normal;
+    margin: 0;
 }
