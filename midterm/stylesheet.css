@@ -93,13 +93,16 @@ padding: 15px;
 font: 100px Georgia, serif;
 color: rgb(225, 72, 136);
     font-style: bold;
-
+    margin: 0;
+    padding: 0;
+    line-height: 1;
 }
 .date {
     font-size: 30px;
     color: rgb(211, 98, 215);
     margin: 0;
     letter-spacing: normal;
+    padding: 0;
 }
 .goodstuff {
     font-size: 30px;
