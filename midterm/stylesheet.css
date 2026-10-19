@@ -76,11 +76,8 @@ a {
     color:pink
 }
 .navbar-brand{
-position: absolute;
-left: 50%;
-transform: translateX(-50%);
 font-style: Georgia, serif;
-color: rgb(233, 19, 190);
+color: pink;
 border: 4px solid lightpink;
 padding: 15px;
 }
