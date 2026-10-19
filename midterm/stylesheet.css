@@ -84,9 +84,10 @@ padding: 15px;
 .baxter{
     height: auto;
     text-align: center;
-        border: 8px solid lightpink;
-    border-top: 8px solid lightpink;
-    border-bottom: 8px solid lightpink;
+        border: 8px solid pink;
+        background-color: rgb(255, 213, 220);
+    border-top: 8px solid pink;
+    border-bottom: 8px solid pink;
     padding: 12px;
 }
 .baxter2{
