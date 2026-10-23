@@ -35,10 +35,14 @@ h3 {
     font-size: 14px;
     text-align: center;
     font-family: Georgia, 'sans-serif';
+    border-bottom: 1px solid rgb(225, 72, 136);
+    padding-bottom: 1em;
+    margin-bottom: 1em;
 }
 .para {
     font-family: Helvetica, Arial, 'sans-serif';
-    font-size: 13px;
+    font-size: 17px;
+    margin-bottom: 2em;
 }
 .times {
     text-align: center;
@@ -72,10 +76,10 @@ letter-spacing: normal;
 margin: 0;
 }
 .photo {
-    text-align: center;
-    width: 100%;
-    margin: 0 auto;
+    width:100%;
+    text-align:center;
     height: auto;
+    margin: 0 auto;
 }
 h2 {
     text-align: center;
@@ -95,4 +99,12 @@ blockquote {
 }
 a {
     color: rgb(225, 72, 136);
+}
+.Reads {
+    color: rgb(225, 72, 136);
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 50px;
+    border: 4px solid lightpink;
+    padding: 15px;
 }
