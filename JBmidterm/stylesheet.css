@@ -93,6 +93,6 @@ blockquote {
     padding: 15px;
     color: rgb(225, 72, 136);
 }
-body {
-    background-color: rgb(233, 233, 231);
+list {
+    color: pink
 }
