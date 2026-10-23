@@ -8,6 +8,7 @@
     margin: 0 auto;
 width: 900px;
 }
+/*This comment won't show up on my website. I am placing the comment directly before my h1 css element which will style the headline of my story and make it look pretty*/
 h1 {
     text-align: center; 
     font-size: 4em;
@@ -91,4 +92,7 @@ blockquote {
     border: 4px solid lightpink;
     padding: 15px;
     color: rgb(225, 72, 136);
+}
+body {
+    background-color: beige;
 }
