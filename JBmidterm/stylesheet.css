@@ -70,3 +70,9 @@ font-style: italic;
 letter-spacing: normal;
 margin: 0;
 }
+.photo {
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+    height: auto;
+}
