@@ -5,6 +5,7 @@
     max-width: 1200px;
     margin: 0 auto;
     padding-bottom: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .display-5-fw-bold-text-body-emphasis {
@@ -157,3 +158,4 @@ li {
     text-align: center;
     color: #444;
 }
+
