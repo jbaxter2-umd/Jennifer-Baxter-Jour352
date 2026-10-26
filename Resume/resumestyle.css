@@ -18,6 +18,11 @@
     font-color: #33485e,
 }
 
+.btn-btn-outline-secondarybtn-lg-px-4 {
+     background-color: lightpink;
+    font-color: #33485e,
+}
+
 .foo {
   font-family: "Roboto", sans-serif;
   font-optical-sizing: auto;
