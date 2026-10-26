@@ -1,0 +1,133 @@
+/* styles for my resume */
+
+#container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+
+* {
+    font-family: "Open Sans", Arial, sans-serif;
+}
+
+/* paragraphs of resume */
+.description {
+    font-size: 1em;
+    color: #444;
+    font-weight: 400;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+/* my name */
+#name {
+    font-size: 3em;
+    color: #33485e;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 400;
+    border: 8px solid lightpink;
+    background-color: lightpink;
+    border-top: 8px solid lightpink;
+    border-bottom: 8px solid lightpink;
+    padding: 12px;
+    width: 60%;
+    min-width: 300px;
+    margin: 0 auto;
+}
+
+/* my title */ 
+.title {
+    font-size: 1.5em;
+    color: #33485e;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+/* section titles */
+.sectionheader {
+    font-size: 1.5em;
+    color: white;
+    text-transform: uppercase;
+    background-color: #33485e;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 0;
+    margin-right: 0;
+    width: 70%;
+    min-width: 300px;
+}
+
+/* job titles */
+.jobtitle {
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+/* job organizations */
+.organization {
+    font-size: 1.25em;
+    font-weight: 400;
+}
+
+/* job dates */  
+.date {
+    font-size: 1em;
+    font-weight: 400;
+    font-style: italic;
+    margin-top: 2px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+/* contact info, skills, and education lists */
+li {
+    font-size: 1em;
+}
+
+.menu {
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+.menu li {
+    display: inline;
+}
+
+#degrees {
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+#do {
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+#title {
+    text-align: center;
+    font-weight: 600;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.top {
+    width: 60%;
+    min-width: 300px;
+    margin-bottom: 30px;
+    margin:0 auto;
+    text-align: center;
+    color: #444;
+}
