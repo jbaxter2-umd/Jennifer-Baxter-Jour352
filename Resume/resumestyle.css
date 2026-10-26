@@ -13,6 +13,10 @@
 
 }
 
+.navbar-navbar-expand-lg-bg-body-tertiary {
+background-color: lightpink
+}
+
 .btn-btn-primary-btn-lg-px-4-gap-3 {
     background-color: lightpink;
     font-color: #33485e,
