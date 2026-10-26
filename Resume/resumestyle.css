@@ -8,7 +8,7 @@
 }
 
 .display-5-fw-bold-text-body-emphasis {
-    font: georgia;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     color: #33485e;
 
 }
