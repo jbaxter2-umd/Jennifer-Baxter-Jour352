@@ -7,6 +7,12 @@
     padding-bottom: 50px;
 }
 
+.display-5-fw-bold-text-body-emphasis {
+    font: georgia;
+    color: #33485e;
+
+}
+
 .foo {
   font-family: "Roboto", sans-serif;
   font-optical-sizing: auto;
