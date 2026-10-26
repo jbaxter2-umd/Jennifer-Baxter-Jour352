@@ -29,7 +29,11 @@
     text-align: center;
     text-transform: uppercase;
     font-weight: 400;
-    border-bottom: 1px solid #33485e;
+    border: 8px solid lightpink;
+    background-color: lightpink;
+    border-top: 8px solid lightpink;
+    border-bottom: 8px solid lightpink;
+    padding: 12px;
     width: 60%;
     min-width: 300px;
     margin: 0 auto;
