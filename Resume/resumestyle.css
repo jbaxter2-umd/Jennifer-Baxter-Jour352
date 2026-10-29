@@ -1,11 +1,12 @@
 /* styles for my resume */
 
 #container {
-    width: 100%;
-    max-width: 1200px;
+    width: 120%;
+    max-width: 1300px;
     margin: 0 auto;
-    padding-bottom: 50px;
+    padding-bottom: 60px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
 }
 
 .display-5-fw-bold-text-body-emphasis {
@@ -26,7 +27,7 @@
 }
 
 .foo {
-  font-family: "Roboto", sans-serif;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   font-optical-sizing: auto;
   font-weight: 300;
   font-style: normal;
@@ -81,11 +82,10 @@
     font-weight: 400;
     margin-top: 20px;
     margin-bottom: 10px;
-    margin-left: 0;
-    margin-right: 0;
     width: 70%;
     min-width: 300px;
     font-style: bold;
+    text-align: center;
 }
 
 /* job titles */
@@ -158,4 +158,8 @@ li {
     text-align: center;
     color: #444;
 }
-
+ul {
+    text-align: center; 
+    list-style: none; 
+    padding-left: 0;
+}
