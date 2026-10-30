@@ -14,7 +14,27 @@
     color: #33485e;
 
 }
-
+.lead-mb-4 {
+   font-size: 25px;
+}
+.email {
+    font-size: 20px;
+}
+.image-row {
+    display: flex;
+    margin: 0 15px;
+    gap: 40px;
+    justify-content: center;
+    align-items: center;
+}
+.images {
+    width: 300px;
+    height: auto;
+    border: 4px solid lightpink;
+}
+a {
+    color: #33485e;
+}
 
 .btn-btn-primary-btn-lg-px-4-gap-3 {
     background-color: lightpink;
@@ -87,6 +107,12 @@
     min-width: 300px;
     font-style: bold;
     text-align: center;
+}
+#leadership {
+    margin-top: 5px;
+}
+#skills {
+    margin-top: 15px;
 }
 
 /* job titles */
