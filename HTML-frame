@@ -1,0 +1,94 @@
+<html>
+    <head>
+<!-- Bootstrap CSS and JavaScript -->
+ <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+
+        <link rel="stylesheet" href="finalstylesheet.css">
+
+ <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+
+        <!-- Navbar start-->
+ <nav class="navbar navbar-expand-lg bg-body-tertiary">
+   <div class="container-fluid">
+     <a class="navbar-brand" href="#">More About Jennifer Baxter!</a>
+     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+       <span class="navbar-toggler-icon"></span>
+     </button>
+     <div class="collapse navbar-collapse" id="navbarSupportedContent">
+       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+         <li class="nav-item">
+           <a class="nav-link active" aria-current="page" href="#">Home</a>
+         </li>
+         <li class="nav-item">
+           <a class="nav-link" href="#">Contact me</a>
+         </li>
+         <li class="nav-item dropdown">
+           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+             Dropdown
+           </a>
+           <ul class="dropdown-menu">
+             <li><a class="dropdown-item" href="#">Experience</a></li>
+             <li><a class="dropdown-item" href="#">Education</a></li>
+             <li><hr class="dropdown-divider"></li>
+             <li><a class="dropdown-item" href="#">Skills</a></li>
+           </ul>
+         </li>
+  
+       </ul>
+       
+     </div>
+   </div>
+ </nav>
+ <!-- Navbar end-->
+
+      <body id="container">
+
+<title></title>
+
+<header>
+
+<h1>HEADLINE</h1>
+<h3>Subheadline</h3>
+
+<section id="byline">
+    <p>Byline</p>
+</section>
+
+<section class="published">
+<p>Date Published</p>
+</section>
+
+</header>
+
+<h3>Chapter Headline</h3>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempor sem turpis, sit amet tempus arcu commodo eu. Suspendisse eget mollis est. Nunc vulputate, lorem ac consequat maximus, justo nibh rutrum erat, vel porttitor massa ante sed dui. Proin faucibus leo et justo ultricies finibus. Sed pharetra eleifend tellus sit amet euismod. Sed dapibus urna eget libero vulputate aliquam. Sed sed leo et tellus posuere suscipit eget et ligula. Sed facilisis, mauris vel sollicitudin vulputate, tortor sem luctus ligula, sit amet fermentum lectus enim congue sem. Praesent pulvinar pharetra sapien, sed dignissim elit auctor a. In vestibulum magna interdum, varius dolor et, facilisis eros. Integer faucibus consectetur sapien non sagittis. Duis eu mi sed sem sagittis eleifend.</p>
+
+<figure>
+<img src="images/image7.jpg" alt="photo example">
+<figcaption>Caption for photo</figcaption>
+</figure>
+
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempor sem turpis, sit amet tempus arcu commodo eu. Suspendisse eget mollis est. Nunc vulputate, lorem ac consequat maximus, justo nibh rutrum erat, vel porttitor massa ante sed dui. Proin faucibus leo et justo ultricies finibus. Sed pharetra eleifend tellus sit amet euismod. Sed dapibus urna eget libero vulputate aliquam. Sed sed leo et tellus posuere suscipit eget et ligula. Sed facilisis, mauris vel sollicitudin vulputate, tortor sem luctus ligula, sit amet fermentum lectus enim congue sem. Praesent pulvinar pharetra sapien, sed dignissim elit auctor a. In vestibulum magna interdum, varius dolor et, facilisis eros. Integer faucibus consectetur sapien non sagittis. Duis eu mi sed sem sagittis eleifend.</p>
+
+<footer class="footer mt-auto py-3 bg-dark">
+       <div>
+         <span class="text-muted">Footer content</span>
+       </div>
+     </footer>
+
+</body>
+</html>
